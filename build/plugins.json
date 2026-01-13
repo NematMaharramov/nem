@@ -1,0 +1,20 @@
+[
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/NematMaharramov/nem",
+        "fileSize": 7625,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nem"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FilmMakinesi",
+        "description": "FilmMakinesi.to film plugin",
+        "url": "https://raw.githubusercontent.com/NematMaharramov/nem/builds/FilmMakinesi.cs3",
+        "name": "FilmMakinesi"
+    }
+]
